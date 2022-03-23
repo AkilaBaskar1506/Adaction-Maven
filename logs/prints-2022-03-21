@@ -1,0 +1,6 @@
+00:49:32.533 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x6359b641c3b7d682
+00:49:34.077 [main] DEBUG com.Adactin.Utitlites.BaseClass - logging into adactin using credentials
+00:49:39.141 [main] DEBUG com.Adactin.Utitlites.BaseClass - searching for Hotels
+00:49:44.212 [main] DEBUG com.Adactin.Utitlites.BaseClass - Selecting the desired Hotel
+00:49:49.283 [main] DEBUG com.Adactin.Utitlites.BaseClass - booking the Hotel
+00:49:49.283 [main] DEBUG com.Adactin.Utitlites.BaseClass - Adding Payment Details

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-20T00:35:09 IST" name="Default suite" finished-at="2022-03-20T00:35:35 IST" duration-ms="25923">
+    <groups>
+    </groups>
+    <test started-at="2022-03-20T00:35:09 IST" name="Default test" finished-at="2022-03-20T00:35:35 IST" duration-ms="25923">
+      <class name="com.Adactin.Testcase.adactinmodelTest">
+        <test-method is-config="true" signature="url_launch()[pri:0, instance:com.Adactin.Testcase.adactinmodelTest@11ee02f8]" started-at="2022-03-20T00:35:09 IST" name="url_launch" finished-at="2022-03-20T00:35:21 IST" duration-ms="11966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url_launch -->
+        <test-method signature="login()[pri:0, instance:com.Adactin.Testcase.adactinmodelTest@11ee02f8]" started-at="2022-03-20T00:35:21 IST" name="login" finished-at="2022-03-20T00:35:23 IST" duration-ms="1860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchHotel()[pri:0, instance:com.Adactin.Testcase.adactinmodelTest@11ee02f8]" started-at="2022-03-20T00:35:23 IST" name="searchHotel" finished-at="2022-03-20T00:35:25 IST" depends-on-methods="com.Adactin.Testcase.adactinmodelTest.login" duration-ms="2137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHotel -->
+        <test-method signature="Select_Hotel()[pri:0, instance:com.Adactin.Testcase.adactinmodelTest@11ee02f8]" started-at="2022-03-20T00:35:25 IST" name="Select_Hotel" finished-at="2022-03-20T00:35:26 IST" depends-on-methods="com.Adactin.Testcase.adactinmodelTest.searchHotel" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Hotel -->
+        <test-method signature="Booking_Hotel()[pri:0, instance:com.Adactin.Testcase.adactinmodelTest@11ee02f8]" started-at="2022-03-20T00:35:26 IST" name="Booking_Hotel" finished-at="2022-03-20T00:35:27 IST" depends-on-methods="com.Adactin.Testcase.adactinmodelTest.Select_Hotel" duration-ms="1650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Hotel -->
+        <test-method signature="Booking_Confirmation()[pri:0, instance:com.Adactin.Testcase.adactinmodelTest@11ee02f8]" started-at="2022-03-20T00:35:27 IST" name="Booking_Confirmation" finished-at="2022-03-20T00:35:33 IST" depends-on-methods="com.Adactin.Testcase.adactinmodelTest.Booking_Hotel" duration-ms="5863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking_Confirmation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Adactin.Testcase.adactinmodelTest@11ee02f8]" started-at="2022-03-20T00:35:33 IST" name="tearDown" finished-at="2022-03-20T00:35:35 IST" duration-ms="1497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Adactin.Testcase.adactinmodelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

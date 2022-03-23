@@ -1,0 +1,7 @@
+00:51:02.108 [main] DEBUG com.Adactin.Utitlites.BaseClass - searching for hotels
+00:51:02.125 [main] DEBUG com.Adactin.Utitlites.BaseClass - Selecting the desired Hotel
+00:51:02.962 [main] INFO  com.Adactin.Utitlites.BaseClass - Selected Hotel
+00:51:02.968 [main] DEBUG com.Adactin.Utitlites.BaseClass - booking the Hotel
+00:51:02.968 [main] DEBUG com.Adactin.Utitlites.BaseClass - Adding Payment Details
+00:51:04.618 [main] INFO  com.Adactin.Utitlites.BaseClass - Booked Hotel
+00:51:04.620 [main] DEBUG com.Adactin.Utitlites.BaseClass - confirming Hotel Booking
